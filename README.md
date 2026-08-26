@@ -17,18 +17,7 @@ I've built and led teams at Stripe, Twitch, Snowflake, Sentry, Everlaw, and eBay
 Earlier work includes *Learning Scala* from O’Reilly and open-source
 developer tools for AWS, Go, Scala, and the command line.
 
-## Recent Posts
-
-- [Big kudos to the 12 Angry Devs](https://www.linkedin.com/feed/update/urn:li:activity:7496713871479549952/)
-- [neatlogs ai demo](https://www.linkedin.com/feed/update/urn:li:activity:7497753273064656896/)
-- [FirstRecall pre-release post](https://www.linkedin.com/feed/update/urn:li:activity:7496709359507288064/)
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=swartzrock&hide_border=true)
-
-
-[![bks2.com](https://custom-icon-badges.demolab.com/badge/bks2.com-113355)]([#](https://www.bks2.com))
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/jaswartz))
+[![bks2.com](https://custom-icon-badges.demolab.com/badge/bks2.com-113355)](https://www.bks2.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jaswartz)
 [![swartzrock](https://img.shields.io/badge/swartzrock-%23000000.svg?logo=X&logoColor=white)](https://x.com/swartzrock)
 
