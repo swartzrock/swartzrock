@@ -1,7 +1,5 @@
 # Hi, I'm Jason 👋
 
-🌎 **Oakland, CA**
-
 Engineering leader and hands-on product engineer focused on developer platforms, infrastructure, and AI products.
 
 I've built and led teams at Stripe, Twitch, Snowflake, Sentry, Everlaw, and eBay. Today I'm building:
@@ -9,10 +7,10 @@ I've built and led teams at Stripe, Twitch, Snowflake, Sentry, Everlaw, and eBay
 - [FirstRecall](https://github.com/swartzrock/obsidian-firstrecall-plugin) —
   turns Obsidian notes into AI-generated active-recall material.
 - [BYOK Runtime](https://github.com/swartzrock/byok-runtime) —
-  one TypeScript API for cloud keys, local models, model discovery,
+  TypeScript API for cloud keys, local models, model discovery,
   structured output, streaming, and CLI providers.
 - [LLM-Now](https://github.com/swartzrock/llm-now) —
-  a small CLI for using local, CLI, and cloud models from scripts and pipes.
+  One command for the local, CLI, and cloud LLM providers you already use.
 
 Earlier work includes *Learning Scala* from O’Reilly and open-source
 developer tools for AWS, Go, Scala, and the command line.
